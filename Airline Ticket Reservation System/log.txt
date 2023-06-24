@@ -1,0 +1,12 @@
+-----------------ABC Airlines---------------
+-------------------Ticket-------------------
+--------------------------------------------
+
+Customer ID: 200801066
+Customer Name: Ganesh Kumar
+Customer Gender: Male
+
+	Description
+
+Destination : 		USA
+Flight Cost : 		44000
